@@ -1,0 +1,15 @@
+C:\Users\dvgro\source\repos\StrategyUml\bin\Debug\net6.0\StrategyUml.exe
+C:\Users\dvgro\source\repos\StrategyUml\bin\Debug\net6.0\StrategyUml.deps.json
+C:\Users\dvgro\source\repos\StrategyUml\bin\Debug\net6.0\StrategyUml.runtimeconfig.json
+C:\Users\dvgro\source\repos\StrategyUml\bin\Debug\net6.0\StrategyUml.dll
+C:\Users\dvgro\source\repos\StrategyUml\bin\Debug\net6.0\StrategyUml.pdb
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\StrategyUml.csproj.AssemblyReference.cache
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\StrategyUml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\StrategyUml.AssemblyInfoInputs.cache
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\StrategyUml.AssemblyInfo.cs
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\StrategyUml.csproj.CoreCompileInputs.cache
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\StrategyUml.dll
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\refint\StrategyUml.dll
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\StrategyUml.pdb
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\StrategyUml.genruntimeconfig.cache
+C:\Users\dvgro\source\repos\StrategyUml\obj\Debug\net6.0\ref\StrategyUml.dll
